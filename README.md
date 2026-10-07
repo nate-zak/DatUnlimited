@@ -14,3 +14,5 @@ Developers:
     - Mohana Vegesna
     - Charles Gilbert
 
+Mission Statement and Manifesto: 
+https://github.com/nate-zak/DatUnlimited/blob/main/DatUnlimited%20Manifesto_2nd%20Edition.pdf
